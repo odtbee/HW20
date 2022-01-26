@@ -1,0 +1,49 @@
+
+/*Navigation*/
+.header {
+    background: #222222 !important; 
+}
+.logo img {
+    max-width:48px;
+}
+a {
+    color:#eeeeee !important;
+}
+/*Hero*/
+.jumbotron .heroImg #hero img {
+    margin: 0 auto;
+
+
+}
+.heroContain {
+    margin: 0 auto;
+}
+.jumbotron.heroImg h1 {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+}
+.jumbotron .heroImg p {
+    font-family: "Source Sans Pro", sans-serif !important;
+}
+.enterButton {
+    margin: 0% 45% 0% 45%;
+}
+/*Overview*/
+.col-sm .centerImg {
+    width: 500px;
+}
+.process img {
+    width: 100%;
+    margin: 0 auto;
+}
+.testing {
+    margin:none;
+}
+.design {
+ 
+}
+.design img {
+    margin: 0 auto;
+    width:100%;
+}
+
