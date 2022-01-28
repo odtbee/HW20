@@ -46,4 +46,22 @@ a {
     margin: 0 auto;
     width:100%;
 }
+.styling {
 
+}
+.styling .row1 .row2 {
+    display: flex;
+}
+.prototype {
+
+}
+.prototypeLink {
+    margin: 0% 45% 0% 45%;
+}
+.container .footer {
+    background-color: #222222 !important;
+}
+ .footerBar {
+     margin: 0; 
+    background-color: #222222 !important;
+}
