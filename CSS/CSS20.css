@@ -10,27 +10,52 @@ a {
     color:#eeeeee !important;
 }
 /*Hero*/
+.heroImg {
+    padding: 32px 32px 32px 32px;
+}
 .jumbotron .heroImg #hero img {
     margin: 0 auto;
-
-
 }
 .heroContain {
-    margin: 0 auto;
+    margin: 0% 25% 0% 25%;
 }
 .jumbotron.heroImg h1 {
+    margin: 16px 0 16px;
     font-family: "Merriweather", serif;
     font-weight: 700;
 }
 .jumbotron .heroImg p {
+    font-size: 24px;
     font-family: "Source Sans Pro", sans-serif !important;
 }
 .enterButton {
     margin: 0% 45% 0% 45%;
 }
 /*Overview*/
+.overviewContainer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 .col-sm .centerImg {
-    width: 500px;
+    width: 100%;
+}
+.centerImg img {
+    width:100%;
+}
+.col-sm .left p {
+    font-family: "Source Sans Pro" sans-serif !important;
+
+}
+/*Problem Statement*/
+.container .problemStatement {
+    
+}
+.col-sm .column h1 {
+    font-family: "Merriweather" serif !important;
+}
+.col-sm {
+    background-color: #212121;
+    color:#eeeeee;
 }
 .process img {
     width: 100%;
